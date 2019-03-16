@@ -1,0 +1,12 @@
+dependencies:
+  - python=3
+  - pip:
+    - spacy
+    - ipykernel
+    - scipy
+    - numpy
+    - scikit-learn
+    - matplotlib
+    - pandas
+    - thinc
+    -opencv-contrib-python==3.4.2.16
